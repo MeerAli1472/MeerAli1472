@@ -1,19 +1,27 @@
 [![MasterHead](https://bcu.imgix.net/big-data-analytics-banner-image-131934029945360761.jpg?auto=format&fm=jpg?mode=crop&width=1342&height=420)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sayed Meer Ali Shah</h1>
-<h3 align="center">A passionate Data Scientist From Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meerali147&label=Profile%20views&color=0e75b6&style=flat" alt="meerali147" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meerali147" alt="meerali147" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Visualization, Neural Networks etc**
+- 🌱 Expertise: **Machine Learning, Deep Learning, Data Visualization, and Computer Vision**
+ 
+- 🌱 Current Projects: Solving challenges in Machine Learning, Deep Learning, Data Visualization, and Computer Vision
 
-- 📝 I regularly write articles on [https://pythonandmathematics.quora.com/](https://pythonandmathematics.quora.com/)
+-  Freelancing: Level two freelancer on Fiverr, offering services in machine learning, deep learning, data analysis, computer vision, and data scraping
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+- 📝 Writing: Regular contributor on Quora [https://pythonandmathematics.quora.com/](https://pythonandmathematics.quora.com/)
 
-- 📫 How to reach me **meeralishah41@gmail.com**
+- 💬 Ask Me About **Python, SQL, Machine Learning, Deep Learning, Data Analysis, and Computer Vision**
+
+- 📫 Contact:
+- Email: meeralishah41@gmail.com
+
+- LinkedIn Profile [Sayed Meer Ali Shah](www.linkedin.com/in/sayed-meer-ali-shah-b2496623a)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
