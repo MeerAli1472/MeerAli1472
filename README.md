@@ -5,22 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meerali147&label=Profile%20views&color=0e75b6&style=flat" alt="meerali147" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meerali147" alt="meerali147" /></a> </p>
 
-- 🌱 Expertise: **Machine Learning, Deep Learning, Data Visualization, and Computer Vision**
+- 🌱 **Expertise: Machine Learning, Deep Learning, Data Visualization, and Computer Vision**
  
-- 🌱 Current Projects: Solving challenges in Machine Learning, Deep Learning, Data Visualization, and Computer Vision
+- 🌱 **Current Projects:** Solving challenges in Machine Learning, Deep Learning, Data Visualization, and Computer Vision
 
--  Freelancing: Level two freelancer on Fiverr, offering services in machine learning, deep learning, data analysis, computer vision, and data scraping
+-  **Freelancing:** Level two freelancer on Fiverr, offering services in machine learning, deep learning, data analysis, computer vision, and data scraping
 
-- 📝 Writing: Regular contributor on Quora [https://pythonandmathematics.quora.com/](https://pythonandmathematics.quora.com/)
+- 📝 **Writing:** Regular contributor on Quora [Qoura](https://pythonandmathematics.quora.com/)
 
-- 💬 Ask Me About **Python, SQL, Machine Learning, Deep Learning, Data Analysis, and Computer Vision**
+- 💬 **Ask Me About Python, SQL, Machine Learning, Deep Learning, Data Analysis, and Computer Vision**
 
-- 📫 Contact:
-- Email: meeralishah41@gmail.com
+- 📫 **Contact:**
+- **Email:** meeralishah41@gmail.com
 
-- LinkedIn Profile [Sayed Meer Ali Shah](www.linkedin.com/in/sayed-meer-ali-shah-b2496623a)
+- **LinkedIn Profile** [Sayed Meer Ali Shah](www.linkedin.com/in/sayed-meer-ali-shah-b2496623a)
 
 
 <h3 align="left">Connect with me:</h3>
